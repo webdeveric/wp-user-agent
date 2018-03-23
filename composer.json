@@ -1,0 +1,19 @@
+{
+  "name": "webdeveric/wp-user-agent",
+  "description": "Customize the user agent WordPress uses for remote requests.",
+  "version": "0.2.0",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Eric King",
+      "email": "eric@webdeveric.com",
+      "homepage": "http://webdeveric.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "composer/installers": "^1.0"
+  }
+}
